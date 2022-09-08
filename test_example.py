@@ -3,5 +3,5 @@ def test_0():
 
 
 def test_1():
-    pass
+    assert 3 > 2
 
