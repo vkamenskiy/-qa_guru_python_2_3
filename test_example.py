@@ -5,3 +5,7 @@ def test_0():
 def test_1():
     assert 5 > 2
 
+
+def test_2():
+    pass
+
